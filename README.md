@@ -1,7 +1,7 @@
 # TED-Net
 Code for our paper "<font color=#4169E1>TED-Net: Dispersal Attention for Perceiving Interaction Region in Indirectly-Contact HOI Detection</font>".
 
-![](paper_images/network.png)
+![](paper_images/TED-Net.png)
 
 ## Installation
 Our environment was established on the foundation of Ubuntu 22.04 with Python 3.8. Install the pytorch==1.7.1 and torchvision==0.8.2.
