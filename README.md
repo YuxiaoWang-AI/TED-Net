@@ -140,3 +140,5 @@ sh ./config/hico_eval.sh
 sh ./config/vcoco_eval.sh
 ```
 
+## Supplementary
+Refer to: https://github.com/YueLiao/gen-vlkt
